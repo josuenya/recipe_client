@@ -1,0 +1,43 @@
+{
+  "logout": "Logout",
+  "copyright": "All rights reserved",
+  "header": {
+    "add": "Add Recipes",
+    "my_recipe": "My Recipes"
+  },
+  "title": "Lists of available recipes",
+  "new_recipes": {
+    "image": "thumbnail of the recipe",
+    "name": "Name of the recipe",
+    "duration": "duration of the recipe",
+    "ingredients": "Ingredients",
+    "qty": "quantity",
+    "guidelines": "Guidelines",
+    "private": {
+      "title": "Private",
+      "description": "Visible only to you"
+    },
+    "public": {
+      "title": "Public",
+      "description": "Everyone can see"
+    }
+  },
+  "btn": {
+    "add_ingredient": "Add an ingredient",
+    "add_guidelines": "Add an guidelines",
+    "create": "Create recipe",
+    "login": "Login",
+    "signup": "Sign up"
+  },
+  "modal": {
+    "title": "Welcome to",
+    "description": "is a platform for sharing recipes",
+    "field": {
+      "email": "Enter your email address",
+      "username": "Enter your username",
+      "pwd": "Enter your password"
+    },
+    "no_account": "I don't have an account",
+    "have_account": "I have an account"
+  }
+}

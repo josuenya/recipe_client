@@ -1,0 +1,43 @@
+{
+  "logout": "Déconnexion",
+  "copyright": "Tous droits réservés",
+  "header": {
+    "add": "Ajouter une recette",
+    "my_recipe": "Mes Recettes"
+  },
+  "title": "Listes de recettes disponibles",
+  "new_recipes": {
+    "image": "vignette de la recette",
+    "name": "Nom de la recette",
+    "duration": "durée de la recette",
+    "ingredients": "Ingrédients",
+    "qty": "quantité",
+    "guidelines": "Directives",
+    "private": {
+      "title": "Privé",
+      "description": "Visible uniquement par vous meme"
+    },
+    "public": {
+      "title": "Public",
+      "description": "tous le monde peut voir"
+    }
+  },
+  "btn": {
+    "add_ingredient": "Ajouter un Ingrédients",
+    "add_guidelines": "Ajouter une directive",
+    "create": "Créer la recette",
+    "login": "Se Connecter",
+    "signup": "Inscription"
+  },
+  "modal": {
+    "title": "Bienvenu sur",
+    "description": "est une plateforme de partage des recettes de cuisine",
+    "field": {
+      "email": "Entrer votre adresse mail",
+      "username": "Entrer votre nom d'utilisateur",
+      "pwd": "Entrer votre mot de passe"
+    },
+    "no_account": "Je n'ai pas de compte",
+    "have_account": "J'ai un compte"
+  }
+}
